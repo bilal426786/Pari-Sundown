@@ -111,20 +111,20 @@ button {
 }
 .container {
   height: calc(100% - 60px);
-  flex-direction: column;
+  /* flex-direction: column; */
 }
 .left {
-  width: 80%;
-  height: 50%;
+  /* width: 80%;
+  height: 45%; */
   /* background-color: antiquewhite; */
   padding: 4vw 6vw;
 }
 .right {
-  width: 80%;
-  height: 50%;
+  /* width: 80%;
+  height: 55%; */
 }
 .left h1 {
-  font-size: 9vw;
+  font-size: 6vw;
   line-height: 11vw;
 }
 .left p {
